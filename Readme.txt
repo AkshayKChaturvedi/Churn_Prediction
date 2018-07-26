@@ -1,9 +1,9 @@
-In today’s age, competition is high in every sector. Although, machine learning cannot always help in every sector but 
+In todayâ€™s age, competition is high in every sector. Although, machine learning cannot always help in every sector but 
 in some sectors it definitely can.
 
 One of the problems faced by the companies is to find new customers. Companies find it more expensive to acquire a new 
-customer than to keep their existing one from leaving. This problem can be alleviated if the companies can predict if a 
-person will become the customer by looking at his past behavior, this is where machine learning comes in.
+customer than to keep their existing one from leaving. This problem can be alleviated if the companies can predict whether a 
+person will become the customer or not by looking at his past behavior, we hope to achieve this by building a classification model, this is where machine learning comes in.
 
 Below is a description of project files:
 
